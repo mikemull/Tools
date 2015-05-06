@@ -1,0 +1,659 @@
+<SEC-DOCUMENT>0001134813-12-000055.txt : 20121130
+<SEC-HEADER>0001134813-12-000055.hdr.sgml : 20121130
+<ACCEPTANCE-DATETIME>20121130135051
+ACCESSION NUMBER:		0001134813-12-000055
+CONFORMED SUBMISSION TYPE:	13F-HR/A
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20070630
+FILED AS OF DATE:		20121130
+DATE AS OF CHANGE:		20121130
+EFFECTIVENESS DATE:		20121130
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STEVENS CAPITAL MANAGEMENT LP
+		CENTRAL INDEX KEY:			0001134813
+		IRS NUMBER:				980377305
+
+	FILING VALUES:
+		FORM TYPE:		13F-HR/A
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	028-06263
+		FILM NUMBER:		121234052
+
+	BUSINESS ADDRESS:	
+		STREET 1:		201 KING OF PRUSSIA ROAD
+		STREET 2:		SUITE 400
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		6109715000
+
+	MAIL ADDRESS:	
+		STREET 1:		201 KING OF PRUSSIA ROAD
+		STREET 2:		SUITE 400
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TEWKSBURY CAPITAL MANAGEMENT LTD
+		DATE OF NAME CHANGE:	20020429
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TCM
+		DATE OF NAME CHANGE:	20020426
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TTF/FA
+		DATE OF NAME CHANGE:	20010213
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>13F-HR/A
+<SEQUENCE>1
+<FILENAME>20070630_Ammendment.txt
+<TEXT>
+FORM 13F COVER PAGE
+
+
+REPORT FOR THE CALENDAR YEAR OR QUARTER ENDED:  30 JUNE 2007
+
+CHECK HERE IF AMENDMENT [ X ]; AMENDMENT NUMBER: [ 2 ]
+THIS AMENDMENT:  [   ] IS A RESTATEMENT.
+                 [ X ] ADDS NEW HOLDINGS ENTRIES.
+
+INSTITUTIONAL INVESTMENT MANAGER FILING THIS REPORT:
+NAME:  STEVENS CAPITAL MANAGEMENT LP
+ADDRESS:  201 KING OF PRUSSIA ROAD SUITE 400 RADNOR PA 19087
+
+FORM 13F FILE NUMBER:  28-06263
+
+THE INSTITUTIONAL INVESTMENT MANAGER FILING THIS REPORT AND THE PERSON
+BY WHOM IT IS SIGNED HEREBY REPRESENT THAT THE PERSON SIGNING THE
+REPORT IS AUTHORIZED TO SUBMIT IT, THAT ALL INFORMATION CONTAINED
+HEREIN IS TRUE, CORRECT AND COMPLETE, AND THAT IT IS UNDERSTOOD THAT
+ALL REQUIRED ITEMS, STATEMENTS, SCHEDULES, LISTS, AND TABLES, ARE
+CONSIDERED INTEGRAL PARTS OF THIS FORM.
+
+PERSON SIGNING THIS REPORT ON BEHALF OF REPORTING MANAGER:
+
+NAME:   JEFFREY W. CAMERON
+TITLE:  GENERAL COUNSEL
+PHONE:  610.971.5000
+
+SIGNATURE, PLACE, AND DATE OF SIGNING:
+
+/s/ JEFFREY W. CAMERON
+____________________________
+SIGNATURE
+RADNOR, PA
+30 NOVEMBER 2012
+
+NOTE:  THIS FORM 13F AMENDMENT IS BEING FILED TO ADD NEW
+HOLDINGS TO THE INITIAL FORM 13F, AS AMENDED BY AMENDMENT
+NO. [1], FOR THE PERIOD ENDED 30 JUNE 2007 ("PERIOD END"). THIS
+AMENDMENT REFLECTS THE REPORTING PERSON'S GROSS LONG POSITIONS
+IN CERTAIN SECTION 13(F) SECURITIES THAT WERE INADVERTENTLY
+OMITTED FROM THE INITIAL FORM 13F FOR THE PERIOD END.
+
+
+REPORT TYPE:
+
+[ X  ]  13F HOLDINGS REPORT
+
+[    ]  13F NOTICE
+
+[    ]  13F COMBINATION REPORT
+
+
+LIST OF OTHER MANAGERS REPORTING FOR THIS MANAGER:
+
+FORM 13F FILE NUMBER:  		NAME:
+NONE
+
+
+
+
+FORM 13F SUMMARY PAGE
+
+REPORT SUMMARY:
+
+NUMBER OF OTHER INCLUDED MANAGERS:		0
+FORM 13F INFORMATION TABLE ENTRY TOTAL:         520
+FORM 13F INFORMATION TABLE VALUE TOTAL:         137908 (THOUSANDS)
+
+LIST OF OTHER INCLUDED MANAGERS:	NONE
+
+
+
+FORM 13F INFORMATION TABLE
+<TABLE>
+<S> <C>
+
+                                                             VALUE    SHRS/PRN   SH/  PUT/   INV    OTHER   VOTING AUTHORITY
+NAME OF ISSUER               TITLE OF CLASS      CUSIP      (x$1000)   AMOUNT    PRN  CALL  DISCR  MANAGERS      SOLE
+3M CO                        COM                 88579Y101      434     5000       SH CALL   SOLE                5000
+40 / 86 STRATEGIC INCOME FD  SH BEN INT          349739102      150    15200       SH        SOLE               15200
+A D A M INC                  COM                 00088U108      121    17500       SH        SOLE               17500
+AASTROM BIOSCIENCES INC      COM                 00253U107       32    23570       SH        SOLE               23570
+ABER DIAMOND CORP            COM                 002893105      366     9550       SH        SOLE                9550
+ABRAXAS PETE CORP            COM                 003830106       92    20579       SH        SOLE               20579
+ACCENTIA BIOPHARMACEUTICALS  COM                 00430L103       26    10050       SH        SOLE               10050
+ACCESS PLANS USA INC         COM                 00433N106       24    13300       SH        SOLE               13300
+ACM MANAGED DLR INCOME FD    COM                 000949107      161    20635       SH        SOLE               20635
+ACME COMMUNICATION INC       COM                 004631107      183    36600       SH        SOLE               36600
+ACME PACKET INC              COM                 004764106      192    16692       SH        SOLE               16692
+ACTEL CORP                   COM                 004934105      200    14352       SH        SOLE               14352
+ACTIONS SEMICONDUCTOR CO LTD ADR                 00507E107      100    16324       SH        SOLE               16324
+ACTIVIDENTITY CORP           COM                 00506P103      165    35967       SH        SOLE               35967
+ACTIVISION INC NEW           COM NEW             004930202      483    25846       SH        SOLE               25846
+ACTUATE CORP                 COM                 00508B102      107    15698       SH        SOLE               15698
+ADVANCED MAGNETICS INC       COM                 00753P103      407     6994       SH        SOLE                6994
+ADVANCED MICRO DEVICES INC   COM                 007903107      170    11900       SH        SOLE               11900
+ADVANCIS PHARMACEUTICALS COR COM                 00764L109       39    15548       SH        SOLE               15548
+ADVANTA CORP                 CL B                007942204      235     7533       SH        SOLE                7533
+AETERNA ZENTARIS INC         COM                 007975204      102    29546       SH        SOLE               29546
+AFFILIATED COMPUTER SERVICES CL A                008190100      482     8503       SH        SOLE                8503
+AFFORDABLE RESIDENTIAL CMTYS COM                 008273104      145    12285       SH        SOLE               12285
+AGILE SOFTWARE CORP DEL      COM                 00846X105      150    18575       SH        SOLE               18575
+ALCOA INC                    COM                 013817101      387     9556       SH        SOLE                9556
+ALICO INC                    COM                 016230104      598     9807       SH        SOLE                9807
+ALLEGHANY CORP DEL           COM                 017175100      524     1290       SH        SOLE                1290
+ALLIED DEFENSE GROUP INC     COM                 019118108       92    11900       SH        SOLE               11900
+ALLTEL CORP                  COM                 020039103      223     3300       SH CALL   SOLE                3300
+ALTRIA GROUP INC             COM                 02209S103      351     5000       SH CALL   SOLE                5000
+AMARIN CORP PLC              SPONSORED ADR       023111107       47    78854       SH        SOLE               78854
+AMBASSADORS INTL INC         COM                 023178106      276     8288       SH        SOLE                8288
+AMERCO                       COM                 023586100      741     9817       SH        SOLE                9817
+AMERICAN EXPRESS CO          COM                 025816109      245     4000       SH  PUT   SOLE                4000
+AMERICAN INTL GROUP INC      COM                 026874107      280     4000       SH  PUT   SOLE                4000
+ANSYS INC                    COM                 03662Q105      257     9691       SH        SOLE                9691
+APAC CUSTOMER SERVICES INC   COM                 00185E106       45    18464       SH        SOLE               18464
+APOLLO GOLD CORP             COM                 03761E102        9    19000       SH        SOLE               19000
+APPLIED MICRO CIRCUITS CORP  COM                 03822W109       26    10316       SH        SOLE               10316
+ARBINET THEXCHANGE INC       COM                 03875P100      105    17464       SH        SOLE               17464
+ARCADIA RES INC              COM                 039209101       21    16835       SH        SOLE               16835
+ASIA TIGERS FD INC           COM                 04516T105      200     8100       SH        SOLE                8100
+ASSOCIATED ESTATES RLTY CORP COM                 045604105      171    11000       SH        SOLE               11000
+ASTRONICS CORP               COM                 046433108      320    10074       SH        SOLE               10074
+ATLANTIS PLASTICS INC        COM                 049156102       42    10300       SH        SOLE               10300
+ATLAS AIR WORLDWIDE HLDGS IN COM NEW             049164205      578     9812       SH        SOLE                9812
+AURORA OIL & GAS CORP        COM                 052036100       67    31405       SH        SOLE               31405
+AUTHENTIDATE HLDG CORP       COM                 052666104       55    35966       SH        SOLE               35966
+AVANIR PHARMACEUTICALS       CL A NEW            05348P401       27    11312       SH        SOLE               11312
+AVATAR HLDGS INC             NOTE   4.500% 4/0   053494AF7      116    77000      PRN        SOLE               77000
+AVI BIOPHARMA INC            COM                 002346104       48    17206       SH        SOLE               17206
+AVICI SYS INC                COM NEW             05367L802      108    14428       SH        SOLE               14428
+AVIGEN INC                   COM                 053690103      158    25668       SH        SOLE               25668
+AXT INC                      COM                 00246W103       56    13041       SH        SOLE               13041
+BANCFIRST CORP               COM                 05945F103      294     6874       SH        SOLE                6874
+BANCO BRADESCO S A           SP ADR PFD NEW      059460303      218     9053       SH        SOLE                9053
+BANK FLA CORP NAPLES         COM                 062128103     1047    60094       SH        SOLE               60094
+BANK NEW YORK INC            COM                 064057102    19268   464961       SH        SOLE              464961
+BEAR STEARNS COS INC         COM                 073902108      280     2000       SH CALL   SOLE                2000
+BIOCRYST PHARMACEUTICALS     COM                 09058V103      113    14586       SH        SOLE               14586
+BIOENVISION INC              COM                 09059N100       95    16432       SH        SOLE               16432
+BIOMIRA INC                  COM                 09161R106       23    22630       SH        SOLE               22630
+BIOSANTE PHARMACEUTICALS INC COM NEW             09065V203      114    17952       SH        SOLE               17952
+BIOTECH HOLDRS TR            DEPOSTRY RCPTS      09067D201     1076     6400       SH        SOLE                6400
+BITSTREAM INC                CL A                091736108       97    13983       SH        SOLE               13983
+BLACKROCK HIGH INCOME SHS    SHS BEN INT         09250E107       68    26600       SH        SOLE               26600
+BLACKROCK MUNIHLDGS INSD FDI COM                 09254C107      126    10100       SH        SOLE               10100
+BLACKROCK MUNIYIELD QUALITY  COM                 09254G108      127    10500       SH        SOLE               10500
+BOB EVANS FARMS INC          COM                 096761101      316     8577       SH        SOLE                8577
+BOEING CO                    COM                 097023105      481     5000       SH CALL   SOLE                5000
+BOFI HLDG INC                COM                 05566U108      198    27400       SH        SOLE               27400
+BOOTS & COOTS/INTL WELL CTRL COM NEW             099469504       18    10167       SH        SOLE               10167
+BOWNE & CO INC               COM                 103043105      199    10224       SH        SOLE               10224
+BPZ ENERGY INC               COM                 055639108      122    21788       SH        SOLE               21788
+BRIGHAM EXPLORATION CO       COM                 109178103      141    24063       SH        SOLE               24063
+BSD MED CORP DEL             COM                 055662100       86    13199       SH        SOLE               13199
+C&D TECHNOLOGIES INC         COM                 124661109      101    17954       SH        SOLE               17954
+CAMBRIDGE DISPLAY TECH INC   COM                 132193103       86    13432       SH        SOLE               13432
+CAPTARIS INC                 COM                 14071N104      123    23993       SH        SOLE               23993
+CARRIAGE SVCS INC            COM                 143905107      134    16271       SH        SOLE               16271
+CASH SYSTEMS INC             COM                 14756B102      199    29249       SH        SOLE               29249
+CATERPILLAR INC DEL          COM                 149123101      313     4000       SH  PUT   SOLE                4000
+CAVCO INDS INC DEL           COM                 149568107      234     6236       SH        SOLE                6236
+CECO ENVIRONMENTAL CORP      COM                 125141101      169    14753       SH        SOLE               14753
+CELESTICA INC                SUB VTG SHS         15101Q108      118    18915       SH        SOLE               18915
+CELL THERAPEUTICS INC        COM NEW             150934404       60    19658       SH        SOLE               19658
+CENTRAL EUROPE AND RUSSIA FD COM                 153436100      228     4400       SH        SOLE                4400
+CENTRAL FD CDA LTD           CL A                153501101      552    60753       SH        SOLE               60753
+CHINA AUTOMOTIVE SYS INC     COM                 16936R105      155    21686       SH        SOLE               21686
+CHINA BAK BATTERY INC        COM                 16936Y100       49    12409       SH        SOLE               12409
+CHINA FD INC                 COM                 169373107      314     8200       SH        SOLE                8200
+CHIPOTLE MEXICAN GRILL INC   CL A                169656105      281     3294       SH        SOLE                3294
+CHROMCRAFT REVINGTON INC     COM                 171117104       88    11800       SH        SOLE               11800
+CITIGROUP INC                COM                 172967101      308     6000       SH CALL   SOLE                6000
+CITIZENS INC                 CL A                174740100       91    12953       SH        SOLE               12953
+CLARIENT INC                 COM                 180489106       39    19119       SH        SOLE               19119
+COACHMEN INDS INC            COM                 189873102      129    13372       SH        SOLE               13372
+COCA COLA BOTTLING CO CONS   COM                 191098102      307     6096       SH        SOLE                6096
+COCA COLA CO                 COM                 191216100      209     4000       SH CALL   SOLE                4000
+COLONIAL BANCGROUP INC       COM                 195493309      207     8288       SH        SOLE                8288
+COLONIAL BANKSHARES INC      COM                 195572102      197    13864       SH        SOLE               13864
+COLUMBIA SPORTSWEAR CO       COM                 198516106      274     3992       SH        SOLE                3992
+COLUMBUS MCKINNON CORP N Y   COM                 199333105      250     7758       SH        SOLE                7758
+COMARCO INC                  COM                 200080109       92    14649       SH        SOLE               14649
+COMMUNITY CAPITAL BANCSHARES COM                 203634100      152    13717       SH        SOLE               13717
+COMPANHIA SIDERURGICA NACION SPONSORED ADR       20440W105      367     7098       SH        SOLE                7098
+COMPANIA CERVECERIAS UNIDAS  SPONSORED ADR       204429104      335     9089       SH        SOLE                9089
+COMPETITIVE TECHNOLOGIES INC COM                 204512107       41    15700       SH        SOLE               15700
+CONCORD CAMERA CORP          COM NEW             206156200      188    41400       SH        SOLE               41400
+CONCURRENT COMPUTER CORP NEW COM                 206710204       46    25882       SH        SOLE               25882
+CONEXANT SYSTEMS INC         COM                 207142100       20    14435       SH        SOLE               14435
+CONSOLIDATED MERCANTILE INC  COM                 20950N107       15    11698       SH        SOLE               11698
+COSI INC                     COM                 22122P101      139    30379       SH        SOLE               30379
+COWLITZ BANCORP LONGVIEW WAS COM                 223767104      183    11200       SH        SOLE               11200
+CRAY INC                     COM NEW             225223304       90    11777       SH        SOLE               11777
+CRITICAL THERAPEUTICS INC    COM                 22674T105       97    44495       SH        SOLE               44495
+CRITICARE SYS INC            COM                 226901106      142    42500       SH        SOLE               42500
+CUMMINS INC                  COM                 231021106      202     2000       SH  PUT   SOLE                2000
+CUMMINS INC                  COM                 231021106      202     2000       SH CALL   SOLE                2000
+CURAGEN CORP                 COM                 23126R101       46    23322       SH        SOLE               23322
+DAG MEDIA INC                COM                 233729102      118    71450       SH        SOLE               71450
+DEB SHOPS INC                COM                 242728103      226     8177       SH        SOLE                8177
+DELTA FINANCIAL CORP         COM                 247918105      159    12919       SH        SOLE               12919
+DEPOMED INC                  COM                 249908104      197    41398       SH        SOLE               41398
+DESWELL INDS INC             COM                 250639101      121    11107       SH        SOLE               11107
+DEVCON INTL CORP             COM                 251588109       45    13500       SH        SOLE               13500
+DEVELOPERS DIVERSIFIED RLTY  COM                 251591103      211     4000       SH CALL   SOLE                4000
+DIAMOND HILL INVESTMENT GROU COM NEW             25264R207      296     3263       SH        SOLE                3263
+DIGITAL RECORDERS INC        COM                 253869101      105    35200       SH        SOLE               35200
+DOLLAR FINL CORP             COM                 256664103      277     9717       SH        SOLE                9717
+DOMINION HOMES INC           COM                 257386102      186    40062       SH        SOLE               40062
+DRAXIS HEALTH INC            COM                 26150J101       90    15122       SH        SOLE               15122
+DREYFUS HIGH YIELD STRATEGIE SH BEN INT          26200S101      149    36000       SH        SOLE               36000
+DTF TAX-FREE INCOME INC      COM                 23334J107      150    10400       SH        SOLE               10400
+DU PONT E I DE NEMOURS & CO  COM                 263534109      203     4000       SH CALL   SOLE                4000
+DWS MULTI MKT INCOME TR      SHS                 23338L108      172    17667       SH        SOLE               17667
+DWS STRATEGIC INCOME TR      SHS                 23338N104      170    12900       SH        SOLE               12900
+EARTHLINK INC                COM                 270321102      177    23635       SH        SOLE               23635
+EBIX INC                     COM NEW             278715206      387     9619       SH        SOLE                9619
+ECTEL LTD                    ORD                 M29925100      192    58637       SH        SOLE               58637
+EDEN BIOSCIENCE CORP         COM NEW             279445886       12    10680       SH        SOLE               10680
+EDGAR ONLINE INC             COM                 279765101      134    49561       SH        SOLE               49561
+ELECTRO ENERGY INC           COM                 285106100       29    23900       SH        SOLE               23900
+EMERGENT BIOSOLUTIONS INC    COM                 29089Q105      161    15602       SH        SOLE               15602
+EMERSON RADIO CORP           COM NEW             291087203      133    44200       SH        SOLE               44200
+ENDEAVOUR INTL CORP          COM                 29259G101       51    33817       SH        SOLE               33817
+ENDEAVOUR SILVER CORP        COM                 29258Y103       76    16900       SH        SOLE               16900
+ENERGY FOCUS INC             COM                 29268T102      139    21000       SH        SOLE               21000
+ENTREMED INC                 COM                 29382F103       24    15628       SH        SOLE               15628
+EPLUS INC                    COM                 294268107      197    20200       SH        SOLE               20200
+ESCALON MED CORP             COM NEW             296074305       86    21670       SH        SOLE               21670
+ESS TECHNOLOGY INC           COM                 269151106       23    13821       SH        SOLE               13821
+EUROBANCSHARES INC           COM                 298716101      106    11707       SH        SOLE               11707
+EVCI CAREER COLLEGES INC     COM                 26926P100      108   125000       SH        SOLE              125000
+EXTREME NETWORKS INC         COM                 30226D106      191    47231       SH        SOLE               47231
+EXXON MOBIL CORP             COM                 30231G102      419     5000       SH  PUT   SOLE                5000
+FAIRFAX FINL HLDGS LTD       SUB VTG             303901102      497     2591       SH        SOLE                2591
+FAVRILLE INC                 COM                 312088404       38    10282       SH        SOLE               10282
+FBR CAPITAL MARKETS CORP     COM                 30247C301      191    11300       SH        SOLE               11300
+FEDERAL TR CORP              COM                 314012105      101    12342       SH        SOLE               12342
+FEDFIRST FINL CORP           COM                 31429X105      111    12000       SH        SOLE               12000
+FIBERNET TELECOM GRP INC     COM PAR $0.001      315653402      150    17400       SH        SOLE               17400
+FIELDPOINT PETROLEUM CORP    COM                 316570100       23    12500       SH        SOLE               12500
+FINANCIAL FED CORP           DBCV   2.000% 4/1   317492AF3       53    47000      PRN        SOLE               47000
+FINLAY ENTERPRISES INC       COM NEW             317884203       91    17010       SH        SOLE               17010
+FIRST AVIATION SVCS INC      COM                 31865W108       34    12700       SH        SOLE               12700
+FIRST BANCORP IND INC NEW    COM                 31867T103      167    11079       SH        SOLE               11079
+FIRST BANCSHARES INC MO      COM                 318687100      168    10200       SH        SOLE               10200
+FIRST CALIFORNIA FINANCIAL G COM NEW             319395109      366    30528       SH        SOLE               30528
+FIRST SOLAR INC              COM                 336433107      369     4131       SH        SOLE                4131
+FROZEN FOOD EXPRESS INDS INC COM                 359360104      116    11474       SH        SOLE               11474
+FSI INTL INC                 COM                 302633102      109    34225       SH        SOLE               34225
+FUNDTECH LTD                 ORD                 M47095100      172    11857       SH        SOLE               11857
+FURMANITE CORPORATION        COM                 361086101      100    12905       SH        SOLE               12905
+GAMETECH INTERNATIONAL INC   COM                 36466D102      123    12941       SH        SOLE               12941
+GASTAR EXPL LTD              COM                 367299104       27    13215       SH        SOLE               13215
+GATEWAY INC                  COM                 367626108      139    87546       SH        SOLE               87546
+GENAERA CORP                 COM NEW             36867G209      130    44979       SH        SOLE               44979
+GENERAL AMERN INVS INC       COM                 368802104      251     6188       SH        SOLE                6188
+GENERAL CABLE CORP DEL NEW   COM                 369300108      315     4161       SH        SOLE                4161
+GENERAL EMPLOYMENT ENTERPRIS COM                 369730106      156    79400       SH        SOLE               79400
+GENEREX BIOTECHNOLOGY CP DEL COM                 371485103      169    95391       SH        SOLE               95391
+GEOGLOBAL RESOURCES INC      COM                 37249T109      135    26542       SH        SOLE               26542
+GEOKINETICS INC              COM PAR $0.01       372910307      248     8000       SH        SOLE                8000
+GEORGIA GULF CORP            COM PAR $0.01       373200203     1014    56000       SH  PUT   SOLE               56000
+GETTY IMAGES INC             COM                 374276103      482    10075       SH        SOLE               10075
+GLADSTONE INVT CORP          COM                 376546107      180    12679       SH        SOLE               12679
+GLOBAL INCOME FD INC         COM                 37934Y108       57    14300       SH        SOLE               14300
+GLOBAL-TECH APPLIANCES INC   ORD                 G39320109       61    19400       SH        SOLE               19400
+GOLDLEAF FINANCIAL SOLUTIONS COM NEW             38144H208      159    29300       SH        SOLE               29300
+GOTTSCHALKS INC              COM                 383485109      172    14450       SH        SOLE               14450
+GRAHAM CORP                  COM                 384556106      222     7900       SH        SOLE                7900
+GREAT BASIN GOLD LTD         COM                 390124105       28    10990       SH        SOLE               10990
+GREATER CHINA FD INC         COM                 39167B102      231     8600       SH        SOLE                8600
+GSC INVESTMENT CORP          COM                 362493108      189    14500       SH        SOLE               14500
+GYRODYNE CO AMER INC         COM                 403820103      358     6353       SH        SOLE                6353
+H & Q HEALTHCARE FD          SH BEN INT          404052102      178    10356       SH        SOLE               10356
+HARLEYSVILLE GROUP INC       COM                 412824104      322     9655       SH        SOLE                9655
+HARVARD BIOSCIENCE INC       COM                 416906105      108    20633       SH        SOLE               20633
+HAUPPAUGE DIGITAL INC        COM                 419131107      142    28900       SH        SOLE               28900
+HAWAIIAN HOLDINGS INC        COM                 419879101      103    28131       SH        SOLE               28131
+HAWK CORP                    CL A                420089104      167    12200       SH        SOLE               12200
+HEMISPHERX BIOPHARMA INC     COM                 42366C103       30    22857       SH        SOLE               22857
+HENRY BROS ELECTRONICS INC   COM                 426286100       56    14900       SH        SOLE               14900
+HERLEY INDS INC DEL          COM                 427398102      197    12013       SH        SOLE               12013
+HESKA CORP                   COM                 42805E108       30    12998       SH        SOLE               12998
+HILL INTERNATIONAL INC       COM                 431466101      187    25277       SH        SOLE               25277
+HOLLYWOOD MEDIA CORP         COM                 436233100      128    29280       SH        SOLE               29280
+HONEYWELL INTL INC           COM                 438516106      225     4000       SH  PUT   SOLE                4000
+HOOPER HOLMES INC            COM                 439104100      162    48313       SH        SOLE               48313
+HOUSEVALUES INC              COM                 44183Y102       63    13807       SH        SOLE               13807
+HUTTIG BLDG PRODS INC        COM                 448451104      184    24243       SH        SOLE               24243
+IAMGOLD CORP                 COM                 450913108      100    13101       SH        SOLE               13101
+ICO GLOBAL COMM HLDGS LTD DE CL A                44930K108      155    44421       SH        SOLE               44421
+ICU MED INC                  COM                 44930G107      233     5419       SH        SOLE                5419
+IDT CORP                     CL B                448947309      118    11466       SH        SOLE               11466
+IGI INC                      COM                 449575109       39    51800       SH        SOLE               51800
+IHS INC                      CL A                451734107      355     7707       SH        SOLE                7707
+IMMUNOGEN INC                COM                 45253H101       65    11748       SH        SOLE               11748
+INDUSTRIAL ENTERPRISES AMER  COM NEW             456132208      131    25800       SH        SOLE               25800
+INDUSTRIAS BACHOCO S A B DE  SPON ADR B          456463108      207     6366       SH        SOLE                6366
+INFINITY ENERGY RESOURCES IN COM PAR .0001       45663L403       38    12304       SH        SOLE               12304
+INGERSOLL-RAND COMPANY LTD   CL A                G4776G101      219     4000       SH CALL   SOLE                4000
+INSPIRE PHARMACEUTICALS INC  COM                 457733103      185    29302       SH        SOLE               29302
+INTERDIGITAL COMMUNICATIONS  COM                 45866A105      346    10754       SH        SOLE               10754
+INTERNATIONAL BUSINESS MACHS COM                 459200101      421     4000       SH  PUT   SOLE                4000
+INTERNATIONAL FLAVORS&FRAGRA COM                 459506101      299     5738       SH        SOLE                5738
+INTERNATIONAL PWR PLC        SPONSORED ADR       46018M104      361     4219       SH        SOLE                4219
+INTERSECTIONS INC            COM                 460981301      129    12925       SH        SOLE               12925
+INTERTAPE POLYMER GROUP INC  COM                 460919103      141    31340       SH        SOLE               31340
+INVITROGEN CORP              COM                 46185R100      888    12039       SH        SOLE               12039
+ION MEDIA NETWORKS INC       CL A                46205A103       67    46656       SH        SOLE               46656
+IRELAND BK                   SPONSORED ADR       46267Q103      671     8263       SH        SOLE                8263
+IRIDEX CORP                  COM                 462684101      104    19700       SH        SOLE               19700
+ISHARES TR                   RUSSELL 2000        464287655      216     2600       SH CALL   SOLE                2600
+ISHARES TR                   DJ US UTILS         464287697      462     4800       SH        SOLE                4800
+ISHARES TR                   S&P SMLCAP 600      464287804      363     5100       SH        SOLE                5100
+ISHARES TR                   RUSSELL 2000        464287655     9587   115557       SH        SOLE              115557
+ITERIS INC                   COM                 46564T107       43    18200       SH        SOLE               18200
+J CREW GROUP INC             COM                 46612H402      258     4772       SH        SOLE                4772
+JACK IN THE BOX INC          COM                 466367109      338     4761       SH        SOLE                4761
+JACKSON HEWITT TAX SVCS INC  COM                 468202106      267     9508       SH        SOLE                9508
+JAPAN EQUITY FD INC          COM                 471057109      123    14500       SH        SOLE               14500
+JAVELIN PHARMACEUTICALS INC  COM                 471894105      163    26323       SH        SOLE               26323
+JED OIL INC                  COM                 472310101       42    21430       SH        SOLE               21430
+JENNIFER CONVS INC           COM                 476153101      199    39600       SH        SOLE               39600
+JOHNSON & JOHNSON            COM                 478160104      203     3300       SH  PUT   SOLE                3300
+JUPITERMEDIA CORP            COM                 48207D101      155    21248       SH        SOLE               21248
+KAISER ALUMINUM CORP         COM PAR $0.01       483007704      278     3809       SH        SOLE                3809
+KAYNE ANDERSON ENERGY DEV CO COM                 48660Q102      222     8800       SH        SOLE                8800
+KHD HUMBOLDT WEDAG INTL LTD  COM                 482462108      536     8711       SH        SOLE                8711
+KINTERA INC                  COM                 49720P506       80    35842       SH        SOLE               35842
+KITTY HAWK INC               COM NEW             498326206        5    17500       SH        SOLE               17500
+KMG AMER CORP                COM                 482563103      121    23032       SH        SOLE               23032
+KMG CHEMICALS INC            COM                 482564101      242     9155       SH        SOLE                9155
+KOREA FD                     COM                 500634100      353     8919       SH        SOLE                8919
+KSW INC                      COM                 48268R106      169    22340       SH        SOLE               22340
+LA JOLLA PHARMACEUTICAL CO   COM NEW             503459307       65    14556       SH        SOLE               14556
+LAZARE KAPLAN INTL INC       COM                 521078105      190    24000       SH        SOLE               24000
+LEAP WIRELESS INTL INC       COM NEW             521863308      763     9024       SH        SOLE                9024
+LEXICON PHARMACEUTICALS INC  COM                 528872104       78    24393       SH        SOLE               24393
+LIBERTY MEDIA HLDG CORP      CAP COM SER B       53071M401      635     5381       SH        SOLE                5381
+LIBERTY MEDIA HLDG CORP      CAP COM SER A       53071M302     1240    10533       SH        SOLE               10533
+LIFE PARTNERS HOLDINGS INC   COM                 53215T106      256     7849       SH        SOLE                7849
+LINCOLN EDL SVCS CORP        COM                 533535100      172    11584       SH        SOLE               11584
+LOCAL COM CORP               COM                 53954R105       69    10000       SH        SOLE               10000
+LOGICVISION INC              COM                 54140W107       50    54900       SH        SOLE               54900
+LSI CORPORATION              COM                 502161102      205    27355       SH        SOLE               27355
+LUXOTTICA GROUP S P A        SPONSORED ADR       55068R202      378     9770       SH        SOLE                9770
+M & F WORLDWIDE CORP         COM                 552541104      632     9494       SH        SOLE                9494
+MACE SEC INTL INC            COM NEW             554335208      188    71339       SH        SOLE               71339
+MAIR HOLDINGS INC            COM                 560635104      188    28422       SH        SOLE               28422
+MAJESCO ENTERTAINMENT CO     COM NEW             560690208       25    16600       SH        SOLE               16600
+MARKEL CORP                  COM                 570535104     1150     2374       SH        SOLE                2374
+MARSH & MCLENNAN COS INC     COM                 571748102      289     9343       SH        SOLE                9343
+MARVELL TECHNOLOGY GROUP LTD ORD                 G5876H105      588    32280       SH        SOLE               32280
+MASTERCARD INC               CL A                57636Q104     1273     7672       SH        SOLE                7672
+MATERIAL SCIENCES CORP       COM                 576674105      125    10581       SH        SOLE               10581
+MATHSTAR INC                 COM                 576801203       23    14900       SH        SOLE               14900
+MAXYGEN INC                  COM                 577776107      150    17509       SH        SOLE               17509
+MCCORMICK & SCHMICKS SEAFD R COM                 579793100      230     8864       SH        SOLE                8864
+MCDONALDS CORP               COM                 580135101      203     4000       SH CALL   SOLE                4000
+MDI INC                      COM                 552705105       16    10700       SH        SOLE               10700
+MEDIA SCIENCES INTL INC      COM                 58446X107      158    26800       SH        SOLE               26800
+MEDIACOM COMMUNICATIONS CORP CL A                58446K105      186    19214       SH        SOLE               19214
+MERGE TECHNOLOGIES INC       COM                 589981109      152    23281       SH        SOLE               23281
+MERIDIAN RESOURCE CORP       COM                 58977Q109       67    22160       SH        SOLE               22160
+MERRIMAC INDS INC            COM                 590262101      162    16400       SH        SOLE               16400
+META FINL GROUP INC          COM                 59100U108      287     7600       SH        SOLE                7600
+METALICO INC                 COM                 591176102      117    14689       SH        SOLE               14689
+METALLICA RES INC            COM                 59125J104       61    13465       SH        SOLE               13465
+METROPOLITAN HEALTH NETWORKS COM                 592142103       68    38700       SH        SOLE               38700
+MEXICAN RESTAURANTS INC      COM                 59283R104      105    13200       SH        SOLE               13200
+MEXICO EQUITY & INCOME FD    COM                 592834105      382     9900       SH        SOLE                9900
+MFS INTER INCOME TR          SH BEN INT          55273C107      195    32300       SH        SOLE               32300
+MFS MULTIMARKET INCOME TR    SH BEN INT          552737108       61    10300       SH        SOLE               10300
+MGP INGREDIENTS INC          COM                 55302G103      182    10765       SH        SOLE               10765
+MICROTEK MEDICAL HLDGS INC   COM                 59515B109       80    17291       SH        SOLE               17291
+MICROTUNE INC DEL            COM                 59514P109      109    20755       SH        SOLE               20755
+MIDCAP SPDR TR               UNIT SER 1          595635103     2580    15857       SH        SOLE               15857
+MIDDLEBY CORP                COM                 596278101      393     6573       SH        SOLE                6573
+MIDWAY GAMES INC             COM                 598148104      156    24565       SH        SOLE               24565
+MILLENNIUM BANKSHARES CORP   COM                 60037B106      166    19400       SH        SOLE               19400
+MINDSPEED TECHNOLOGIES INC   COM                 602682106      107    48593       SH        SOLE               48593
+MINES MGMT CO                COM                 603432105       84    24866       SH        SOLE               24866
+MISONIX INC                  COM                 604871103      104    17400       SH        SOLE               17400
+MISSION WEST PPTYS INC       COM                 605203108      321    22995       SH        SOLE               22995
+MONMOUTH CAP CORP            COM                 609524103       90    16324       SH        SOLE               16324
+MORGAN STANLEY CHINA A SH FD COM                 617468103      223     5700       SH        SOLE                5700
+MORGAN STANLEY EMER MKTS DEB COM                 61744H105      145    14200       SH        SOLE               14200
+MORGAN STANLEY GBL OPP BOND  COM                 61744R103      199    25300       SH        SOLE               25300
+MORGAN STANLEY INDIA INVS FD COM                 61745C105      421     9366       SH        SOLE                9366
+MOVIE GALLERY INC            COM                 624581104      163    86039       SH        SOLE               86039
+MOVIE STAR INC               COM                 624591103      182    72300       SH        SOLE               72300
+MRV COMMUNICATIONS INC       COM                 553477100      188    57803       SH        SOLE               57803
+NACCO INDS INC               CL A                629579103      788     5068       SH        SOLE                5068
+NANOGEN INC                  COM                 630075109       31    22922       SH        SOLE               22922
+NAPSTER INC                  COM                 630797108      158    46609       SH        SOLE               46609
+NARA BANCORP INC             COM                 63080P105      160    10056       SH        SOLE               10056
+NATIONAL AUSTRALIA BK LTD    SPONSORED ADR       632525408     1148     6656       SH        SOLE                6656
+NATIONAL PRESTO INDS INC     COM                 637215104      309     4963       SH        SOLE                4963
+NATUZZI S P A                ADR                 63905A101      164    20666       SH        SOLE               20666
+NAVIGATORS GROUP INC         COM                 638904102      236     4374       SH        SOLE                4374
+NDS GROUP PLC                SPONSORED ADR       628891103      277     5904       SH        SOLE                5904
+NEOSE TECHNOLOGIES INC       COM                 640522108      199    80901       SH        SOLE               80901
+NETBANK INC                  COM                 640933107       26    82604       SH        SOLE               82604
+NETMANAGE INC                COM NEW             641144308      138    30200       SH        SOLE               30200
+NETSCOUT SYS INC             COM                 64115T104      178    20525       SH        SOLE               20525
+NETSOL TECHNOLOGIES INC      COM NEW             64115A204       48    27700       SH        SOLE               27700
+NEUROGEN CORP                COM                 64124E106       99    14858       SH        SOLE               14858
+NEVADA GOLD & CASINOS INC    COM NEW             64126Q206       69    34400       SH        SOLE               34400
+NEWMONT MINING CORP          COM                 651639106     2346    60050       SH        SOLE               60050
+NEXMED INC                   COM                 652903105      101    55622       SH        SOLE               55622
+NEXSTAR BROADCASTING GROUP I CL A                65336K103      188    14329       SH        SOLE               14329
+NGP CAP RES CO               COM                 62912R107      182    10869       SH        SOLE               10869
+NIKE INC                     CL B                654106103      233     4000       SH  PUT   SOLE                4000
+NINETOWNS INTERNET TECH GRP  ADR                 654407105       45    12203       SH        SOLE               12203
+NITCHES INC                  COM                 65476M109      150    41800       SH        SOLE               41800
+NMT MED INC                  COM                 629294109      149    12583       SH        SOLE               12583
+NORTHFIELD LABS INC          COM                 666135108       42    29825       SH        SOLE               29825
+NOVA BIOSOURCE FUELS INC     COM                 65488W103       59    23240       SH        SOLE               23240
+NOVAMED INC DEL              COM                 66986W108      633   104668       SH        SOLE              104668
+NOVASTAR FINL INC            COM                 669947400       71    10205       SH        SOLE               10205
+NPS PHARMACEUTICALS INC      COM                 62936P103      179    43323       SH        SOLE               43323
+NRG ENERGY INC               PFD CONV MAND       629377870      734     2000       SH        SOLE                2000
+NUVEEN INVTS INC             CL A                67090F106      380     6115       SH        SOLE                6115
+NVIDIA CORP                  COM                 67066G104      278     6739       SH        SOLE                6739
+NYMEX HOLDINGS INC           COM                 62948N104      628     5000       SH  PUT   SOLE                5000
+OHIO CAS CORP                COM                 677240103      218     5038       SH        SOLE                5038
+OLD NATL BANCORP IND         COM                 680033107      193    11601       SH        SOLE               11601
+OMNICARE INC                 DBCV   3.250%12/1   681904AL2      420   500000      PRN        SOLE              500000
+ON TRACK INNOVATION LTD      SHS                 M8791A109      150    23818       SH        SOLE               23818
+ON2 TECHNOLOGIES INC         COM                 68338A107       43    14174       SH        SOLE               14174
+ORCHID CELLMARK INC          COM                 68573C107      128    27686       SH        SOLE               27686
+ORCKIT COMMUNICATIONS LTD    SHS NEW             M7531S206      198    22073       SH        SOLE               22073
+ORIGIN AGRITECH LIMITED      SHS                 G67828106      169    20531       SH        SOLE               20531
+OSCIENT PHARMACEUTICALS CORP COM NEW             68812R303       53    11698       SH        SOLE               11698
+OVERLAND STORAGE INC         COM                 690310107       31    12002       SH        SOLE               12002
+OVERSEAS SHIPHOLDING GROUP I COM                 690368105      478     5873       SH        SOLE                5873
+OXIGENE INC                  COM                 691828107       78    19654       SH        SOLE               19654
+PAINCARE HLDGS INC           COM                 69562E104       25    69757       SH        SOLE               69757
+PALATIN TECHNOLOGIES INC     COM NEW             696077304       22    11169       SH        SOLE               11169
+PALM HARBOR HOMES            NOTE   3.250% 5/1   696639AB9       98   114000      PRN        SOLE              114000
+PARAGON TECHNOLOGIES INC     COM                 69912T108      121    18100       SH        SOLE               18100
+PARK NATL CORP               COM                 700658107      507     5982       SH        SOLE                5982
+PARLUX FRAGRANCES INC        COM                 701645103       83    18806       SH        SOLE               18806
+PATRIOT CAPITAL FUNDING INC  COM                 70335Y104      170    11455       SH        SOLE               11455
+PC-TEL INC                   COM                 69325Q105      140    16018       SH        SOLE               16018
+PDI INC                      COM                 69329V100      157    15338       SH        SOLE               15338
+PEABODY ENERGY CORP          SDCV   4.750%12/1   704549AG9     1060  1000000      PRN        SOLE             1000000
+PEAK INTL LTD                ORD                 G69586108      150    53000       SH        SOLE               53000
+PEERLESS SYS CORP            COM                 705536100       24    11300       SH        SOLE               11300
+PEMCO AVIATION INC           COM                 706444106      429     1977       SH        SOLE                1977
+PENN TREATY AMERN CORP       COM NEW             707874400      130    22644       SH        SOLE               22644
+PERCEPTRON INC               COM                 71361F100      137    13862       SH        SOLE               13862
+PERINI CORP                  COM                 713839108      372     6052       SH        SOLE                6052
+PERMA-FIX ENVIRONMENTAL SVCS COM                 714157104       49    15959       SH        SOLE               15959
+PFEIFFER VACUUM TECH AG      SPONSORED ADR       717067102      229     2384       SH        SOLE                2384
+PHI INC                      COM NON VTG         69336T205      204     6832       SH        SOLE                6832
+PHOTOMEDEX INC               COM                 719358103       36    27600       SH        SOLE               27600
+PHOTON DYNAMICS INC          COM                 719364101      118    10810       SH        SOLE               10810
+PIONEER COS INC              COM NEW             723643300      213     6186       SH        SOLE                6186
+PLACER DOME INC              DBCV   2.750%10/1   725906AK7      633   500000      PRN        SOLE              500000
+PLANETOUT INC                COM                 727058109       28    20412       SH        SOLE               20412
+POINT 360                    COM                 730698107      125    21600       SH        SOLE               21600
+PONIARD PHARMACEUTICALS INC  COM NEW             732449301       75    10962       SH        SOLE               10962
+POPE & TALBOT INC            COM                 732827100      167    42055       SH        SOLE               42055
+POWERSHARES QQQ TRUST        UNIT SER 1          73935A104      347     7300       SH CALL   SOLE                7300
+PRECISION CASTPARTS CORP     COM                 740189105      794     6541       SH        SOLE                6541
+PREFERRED BK LOS ANGELES CA  COM                 740367107      214     5352       SH        SOLE                5352
+PREMIERE GLOBAL SVCS INC     COM                 740585104      174    13331       SH        SOLE               13331
+PRG-SCHULTZ INTERNATIONAL IN COM NEW             69357C503      176    11054       SH        SOLE               11054
+PRINCETON REVIEW INC         COM                 742352107       74    15379       SH        SOLE               15379
+PRIVATE MEDIA GROUP INC      COM                 74266R104       53    23982       SH        SOLE               23982
+PROCTER & GAMBLE CO          COM                 742718109      245     4000       SH  PUT   SOLE                4000
+PROSPECT STR HIGH INCOME PTF COM NEW             743586406       46    14100       SH        SOLE               14100
+PROTECTIVE LIFE CORP         COM                 743674103      224     4678       SH        SOLE                4678
+PUTMAN HIGH INCOME SEC FUND  SHS BEN INT         746779107      167    18800       SH        SOLE               18800
+PUTNAM HIGH YIELD MUN TR     SH BEN INT          746781103       87    11800       SH        SOLE               11800
+PUTNAM INVT GRADE MUN TR     COM                 746805100      128    12800       SH        SOLE               12800
+PXRE GROUP LTD               COM                 G73018106      122    26200       SH        SOLE               26200
+QUADRAMED CORP               COM                 74730W101      179    58696       SH        SOLE               58696
+QUANTA CAPITAL HLDGS LTD     SHS                 G7313F106       41    17234       SH        SOLE               17234
+QUIGLEY CORP                 COM NEW             74838L304      103    22065       SH        SOLE               22065
+RADIO ONE INC                CL A                75040P108      136    19222       SH        SOLE               19222
+RAINMAKER SYSTEMS            COM NEW             750875304       93    13019       SH        SOLE               13019
+RAM ENERGY RESOURCES INC     COM                 75130P109       54    10028       SH        SOLE               10028
+RAND LOGISTICS INC           UNIT 10/26/2008     752182204      101    10000       SH        SOLE               10000
+RAND LOGISTICS INC           COM                 752182105      123    19100       SH        SOLE               19100
+RARE HOSPITALITY INTL INC    COM                 753820109      245     9161       SH        SOLE                9161
+RBC BEARINGS INC             COM                 75524B104      210     5082       SH        SOLE                5082
+READY MIX INC                COM                 755747102      178    13800       SH        SOLE               13800
+REDENVELOPE INC              COM                 75733R601      155    23400       SH        SOLE               23400
+REGENT COMMUNICATIONS INC DE COM                 758865109      179    53398       SH        SOLE               53398
+REIS INC                     COM                 75936P105      110    12100       SH        SOLE               12100
+REPLIDYNE INC                COM                 76028W107       79    13662       SH        SOLE               13662
+REX STORES CORP              COM                 761624105      204    10300       SH        SOLE               10300
+RIMAGE CORP                  COM                 766721104      266     8430       SH        SOLE                8430
+RIO NARCEA GOLD MINES INC    COM                 766909105       95    18801       SH        SOLE               18801
+ROCKFORD CORP                COM                 77316P101       88    37500       SH        SOLE               37500
+ROTECH HEALTHCARE INC        COM                 778669101       95    87616       SH        SOLE               87616
+ROYAL DUTCH SHELL PLC        SPONS ADR A         780259206      357     4399       SH        SOLE                4399
+RUBIOS RESTAURANTS INC       COM                 78116B102      148    14700       SH        SOLE               14700
+RURAL / METRO CORP           COM                 781748108       86    15062       SH        SOLE               15062
+SAFEGUARD SCIENTIFICS INC    COM                 786449108      133    47485       SH        SOLE               47485
+SALISBURY BANCORP INC        COM                 795226109      212     6400       SH        SOLE                6400
+SALTON INC                   COM                 795757103       39    20710       SH        SOLE               20710
+SANDISK CORP                 NOTE    1.000% 5/1  80004CAC5      440   500000      PRN        SOLE              500000
+SANDY SPRING BANCORP INC     COM                 800363103      313     9961       SH        SOLE                9961
+SANFILIPPO JOHN B & SON INC  COM                 800422107      146    13251       SH        SOLE               13251
+SCHERING PLOUGH CORP         PFD CONV MAND       806605606      344     5001       SH        SOLE                5001
+SECURITY NATL FINL CORP      CL A NEW            814785309      168    29862       SH        SOLE               29862
+SELECT SECTOR SPDR TR        SBI CONS STPLS      81369Y308      216     8000       SH        SOLE                8000
+SELECTICA INC                COM                 816288104      136    70700       SH        SOLE               70700
+SENTO CORP                   COM NEW             816918205       28    20185       SH        SOLE               20185
+SEQUENOM INC                 COM NEW             817337405       60    13420       SH        SOLE               13420
+SIGA TECHNOLOGIES INC        COM                 826917106       42    12811       SH        SOLE               12811
+SIGMATRON INTL INC           COM                 82661L101       98    10400       SH        SOLE               10400
+SILVERLEAF RESORTS INC       COM                 828395103       60    10011       SH        SOLE               10011
+SIRVA INC                    COM                 82967Y104      123    62036       SH        SOLE               62036
+SOCIEDAD QUIMICA MINERA DE C SPON ADR SER B      833635105      388     2253       SH        SOLE                2253
+SOLITARIO RES CORP           COM                 83422R106       62    12900       SH        SOLE               12900
+SPANSION INC                 COM CL A            84649R101      130    11719       SH        SOLE               11719
+SPECTRUM PHARMACEUTICALS INC COM                 84763A108      183    25478       SH        SOLE               25478
+STAAR SURGICAL CO            COM PAR $0.01       852312305      159    41504       SH        SOLE               41504
+STAKTEK HLDGS INC            COM                 85256P106       72    18244       SH        SOLE               18244
+STANDARD PARKING CORP        COM                 853790103      257     7317       SH        SOLE                7317
+STANTEC INC                  COM                 85472N109      200     6124       SH        SOLE                6124
+STEMCELLS INC                COM                 85857R105      191    82695       SH        SOLE               82695
+STRATTEC SEC CORP            COM                 863111100      213     4537       SH        SOLE                4537
+SUN BANCORP INC              COM                 86663B102      187    11107       SH        SOLE               11107
+SUNLINK HEALTH SYSTEMS INC   COM                 86737U102      142    22600       SH        SOLE               22600
+SUPERIOR BANCORP             COM                 86806M106      195    19044       SH        SOLE               19044
+SUPERTEX INC                 COM                 868532102      279     8904       SH        SOLE                8904
+SURMODICS INC                COM                 868873100      256     5115       SH        SOLE                5115
+SYNALLOY CP DEL              COM                 871565107      212     6084       SH        SOLE                6084
+SYNERGETICS USA INC          COM                 87160G107       66    19017       SH        SOLE               19017
+SYNERGY FINANCIAL GROUP INC  COM                 87162V102      163    12250       SH        SOLE               12250
+SYNOVIS LIFE TECHNOLOGIES IN COM                 87162G105      176    12240       SH        SOLE               12240
+SYNPLICITY INC               COM                 87160Y108      121    17235       SH        SOLE               17235
+SYNTAX BRILLIAN CORP         COM                 87163L103       88    17942       SH        SOLE               17942
+SYPRIS SOLUTIONS INC         COM                 871655106      128    15900       SH        SOLE               15900
+TARRAGON CORP                COM                 876287103      197    23301       SH        SOLE               23301
+TEAM FINANCIAL INC           COM                 87815X109      157    10100       SH        SOLE               10100
+TEAMSTAFF INC                COM NEW             87815U204       98   109000       SH        SOLE              109000
+TECHNIP NEW                  SPONSORED ADR       878546209      785     9500       SH        SOLE                9500
+TECHTEAM GLOBAL INC          COM                 878311109      186    15383       SH        SOLE               15383
+TECUMSEH PRODS CO            CL B                878895101      157    10544       SH        SOLE               10544
+TEJON RANCH CO DEL           COM                 879080109      392     8872       SH        SOLE                8872
+TELEPHONE & DATA SYS INC     SPL COM             879433860      236     4100       SH        SOLE                4100
+TELKOM SA LTD                SPONSORED ADR       879603108      281     2785       SH        SOLE                2785
+TEMPLETON RUS AND EAST EUR F COM                 88022F105     1157    17300       SH        SOLE               17300
+TERCICA INC                  COM                 88078L105      162    31706       SH        SOLE               31706
+TERNIUM SA                   SPON ADR            880890108      240     7933       SH        SOLE                7933
+TEXAS PAC LD TR              SUB CTF PROP I T    882610108      494     1607       SH        SOLE                1607
+THERAGENICS CORP             COM                 883375107      122    29326       SH        SOLE               29326
+THERMOGENESIS CORP           COM NEW             883623209       95    34253       SH        SOLE               34253
+THIRD WAVE TECHNOLOGIES INC  COM                 88428W108       68    11591       SH        SOLE               11591
+THOMAS PPTYS GROUP INC       COM                 884453101      188    11759       SH        SOLE               11759
+THRESHOLD PHARMACEUTICAL INC COM                 885807107       16    13367       SH        SOLE               13367
+TORREYPINES THERAPEUTICS INC COM                 89235K105      196    28241       SH        SOLE               28241
+TRAFFIX INC                  COM                 892721101      141    25600       SH        SOLE               25600
+TRANSACT TECHNOLOGIES INC    COM                 892918103      145    24300       SH        SOLE               24300
+TRANSCEND SERVICES INC       COM NEW             893929208      197    10399       SH        SOLE               10399
+TRANSDIGM GROUP INC          COM                 893641100      272     6716       SH        SOLE                6716
+TRANSGLOBE ENERGY CORP       COM                 893662106       74    16606       SH        SOLE               16606
+TRANSMERIDIAN EXPL INC       COM                 89376N108       63    35681       SH        SOLE               35681
+TRANSPORTADORA DE GAS SUR    SPON ADR B          893870204      102    12785       SH        SOLE               12785
+TRIMERIS INC                 COM                 896263100      189    27629       SH        SOLE               27629
+TRINITY BIOTECH PLC          SPON ADR NEW        896438306      143    12339       SH        SOLE               12339
+TUTOGEN MEDICAL INC          COM                 901107102      144    14445       SH        SOLE               14445
+TWIN DISC INC                COM                 901476101      317     4411       SH        SOLE                4411
+U S XPRESS ENTERPRISES INC   CL A                90338N103      205    11056       SH        SOLE               11056
+UNITED TECHNOLOGIES CORP     COM                 913017109      284     4000       SH  PUT   SOLE                4000
+UNIVERSAL POWER GROUP INC    COM                 913788105       71    15400       SH        SOLE               15400
+UNIVERSAL STAINLESS & ALLOY  COM                 913837100      283     8047       SH        SOLE                8047
+UROLOGIX INC                 COM                 917273104      107    47840       SH        SOLE               47840
+VANGUARD INDEX FDS           SML CP GRW ETF      922908595      242     3268       SH        SOLE                3268
+VISTA GOLD CORP              COM NEW             927926303      152    35240       SH        SOLE               35240
+VISTACARE INC                CL A                92839Y109      181    18417       SH        SOLE               18417
+VIVUS INC                    COM                 928551100      151    28841       SH        SOLE               28841
+WAL MART STORES INC          COM                 931142103      289     6000       SH CALL   SOLE                6000
+WEATHERFORD INTERNATIONAL LT COM                 G95089101      531     9620       SH        SOLE                9620
+WEBSITE PROS INC             COM                 94769V105       75    11900       SH        SOLE               11900
+WEGENER CORP                 COM                 948585104      107    98013       SH        SOLE               98013
+WESCO INTL INC               COM                 95082P105      496     8213       SH        SOLE                8213
+WESTAFF INC                  COM                 957070105      171    39400       SH        SOLE               39400
+WESTELL TECHNOLOGIES INC     CL A                957541105      193    73785       SH        SOLE               73785
+WESTERN ASSET CLAYMORE US TR COM SH BEN INT      95766Q106      150    13200       SH        SOLE               13200
+WESTMORELAND COAL CO         COM                 960878106      205     7500       SH        SOLE                7500
+WEYCO GROUP INC              COM                 962149100      209     7755       SH        SOLE                7755
+WHITE ELECTR DESIGNS CORP    COM                 963801105      153    26381       SH        SOLE               26381
+WHITNEY HLDG CORP            COM                 966612103      318    10572       SH        SOLE               10572
+WILSONS THE LEATHER EXPERTS  COM                 972463103       31    16643       SH        SOLE               16643
+WORKSTREAM INC               COM                 981402100       44    41900       SH        SOLE               41900
+WSTRN ASSET/CLYMRE US TR INF COM                 95766R104      150    13000       SH        SOLE               13000
+XOMA LTD                     ORD                 G9825R107       73    23987       SH        SOLE               23987
+ZI CORP                      COM                 988918108       69    59397       SH        SOLE               59397
+ZIPREALTY INC                COM                 98974V107       99    13194       SH        SOLE               13194
+ZWEIG FD                     COM                 989834106       72    11773       SH        SOLE               11773
+</TABLE>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
